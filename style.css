@@ -1,0 +1,59 @@
+body {
+background-image: url(img/20191110225500.png);
+font-family:
+'Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+}
+
+.info1 {
+	 position: relative;
+    top: 200px;
+    color: #fff;
+    font-size: 10px;
+}
+
+h1 {
+	 position: relative;
+    top: 180px;
+    color: #fff;
+    font-size: 18px;
+}
+
+a.cp_btn {
+	position: relative;
+   top: 210px;
+   font-size: 10px;
+	text-decoration: none;
+	color: #fff;
+}
+
+a.ci_btn {
+	position: relative;
+   top: 180px;
+   font-size: 18px;
+	text-decoration: none;
+	color: #fff;
+}
+
+a.ct_btn {
+	position: relative;
+   top: 212px;
+   font-size: 10px;
+	text-decoration: none;
+	color: #1da1f3;
+}
+
+a.cy_btn {
+	position: relative;
+   top: 212px;
+   font-size: 10px;
+	text-decoration: none;
+	color: #ff0000;
+}
+
+a.cq_btn {
+	position: relative;
+   top: 212px;
+   font-size: 10px;
+	text-decoration: none;
+	color: #00e400;
+}
