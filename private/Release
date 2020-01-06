@@ -1,0 +1,8 @@
+Origin: Minazuki’s Private Repo
+Label: Minazuki (private)
+Suite: stable
+Version: 1.0
+Codename: Minazuki (private)
+Architectures: iphoneos-arm
+Components: main
+Description: Minazuki's private repository.

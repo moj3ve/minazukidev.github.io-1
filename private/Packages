@@ -1,0 +1,58 @@
+Package: science.xnu.substituted
+Architecture: iphoneos-arm
+Version: 0.1~b1
+Priority: optional
+Section: System
+Maintainer: pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 2016
+Depends: mobilesubstrate (=0.9.7033+dummy), firmware (>= 11.0), com.ex.substitute (>= 0.0.11)
+Conflicts: science.xnu.substitute
+Replaces: science.xnu.substitute
+Filename: ./debs/science.xnu.substituted_0.1~b1_iphoneos-arm.deb
+Size: 512194
+MD5sum: f360fd1f9f8511e7d1ab654d04bfb857
+SHA1: f8b619c40848ab824f3291d0e59654720f006488
+SHA256: 40eb31a0e1b5df4e154080452409612617b47ae3007af03df0f0621d6d7fcc11
+SHA512: d32d2703275b4e72ad05f231f02e6ae713cd77616cd45d7b6591c3cd496f6d53db5111c66fc483566551fbc1fff3885e9b07e5f76b4fd5beec22fc89ddc6b021
+Description: Substitute Support
+Name: Substitute Support Package
+Author: pwn20wnd <pwn20wndstuff@gmail.com>
+
+Package: signing-certificate
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: None
+Installed-Size: 12
+Depends: jailbreak-resources (>=1.0~b4)
+Conflicts: jailbreak-resources (<<1.0~b4)
+Filename: ./debs/signing-certificate_0.0.1_iphoneos-arm.deb
+Size: 6380
+MD5sum: 5d822544614467d2b46e96f1f9db5463
+SHA1: 17b532a81ee3ff41414d99bb997546e4d94d0dba
+SHA256: bf2b7443aec952317eba1acaae5cf93fbab42c0536d7ddcfd8531a51d92b492a
+SHA512: 2a450bacc0d27d2f777cb79e34a26f4a2d42a05e064fc2ad2628f4881c8d22a1d98c952122db2f4116dcaba43ad8d5349c8b3f1a1f1a7be1aa7d585e231f7dfa
+Description: A Certificate to sign things with
+Author: None
+Name: Signing Certificate
+
+Package: trustinjector
+Architecture: iphoneos-arm
+Version: 0.4~b5
+Section: System
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 252
+Provides: trustinjector, science.xnu.injector
+Conflicts: science.xnu.injector
+Replaces: science.xnu.injector
+Filename: ./debs/trustinjector_0.4~b5_iphoneos-arm.deb
+Size: 45084
+MD5sum: 410161468d8c0bbe6a40f2e92d651d04
+SHA1: cce6adcc4520a68582bd295cf5f76ff2746e7894
+SHA256: 2c0551ae0305ed577b01a7cd8f83433a449fc45f619dfe46b8a152e735b7ca05
+SHA512: 6b0f8c9d077976812cf153cb5042f3645a1d1848279c63ea7812fd58cdecfcef08166e264dbbadb9ff24a2377d72d8ddf839b1b40dbb9dc3515aa83757897808
+Description: Inject files to kernel trust cache
+Tag: role::hacker
+Name: Trust Cache Injector
+Author: Sam Bingner <maintainer@sbdhi.com>
+

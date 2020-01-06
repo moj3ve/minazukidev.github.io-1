@@ -244,6 +244,24 @@ Depiction: https://minazukidev.github.io/html/folderelectro/index.html
 Author: Minazuki
 icon: https://minazukidev.github.io/icon/folderelectroicon.png
 
+Package: com.minazuki.homecleaner
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 316
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.minazuki.homecleaner_1.0_iphoneos-arm.deb
+Size: 58864
+MD5sum: bf8367cb8b44df9a658c75c49912446e
+SHA1: 07ef1a9672264ac8e64f1c33ebb6ae7f1668fb39
+SHA256: 559b4af24c1cdbaec6717c1c47124ff69f762d3184a7398d9e5d01736a6b1b70
+SHA512: 50fe4f1ae1a11f49c74634c66bbff231644abeed904a73600578daee05272d7af30e73be4b065a7d27e5dc87e70c45761829ded800a48ca4ad90aee1d244fe18
+Description: Clean your home screen!
+Name: Home Cleaner
+Depiction: https://minazukidev.github.io/html/homecleaner/index.html
+Author: Minazuki
+
 Package: com.minazuki.du
 Architecture: iphoneos-arm
 Version: 0.0.1
