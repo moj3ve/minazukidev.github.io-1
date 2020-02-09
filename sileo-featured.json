@@ -1,4 +1,11 @@
 {
+   "name": "Minazuki’s Repo",
+   "icon": "",
+   "description": "Minazuki’s Repo Sigin in",
+   "authentication_banner": {
+      "message": "For developers only",
+      "button": "Sign in"
+   },
    "class":"FeaturedBannersView",
    "itemSize":"{296, 148}",
    "itemCornerRadius":10,
