@@ -1,3 +1,3 @@
-$(function() {
-  console.log('minazuki profile');
+addEventListener('load', function(e) {
+  document.querySelector('#test').innerHTML = 'NewRepo';
 });
