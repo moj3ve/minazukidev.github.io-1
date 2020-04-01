@@ -30,14 +30,14 @@ Maintainer: Minazuki <minazukidev@gmail.com>
 Installed-Size: 380
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.minazuki.badgeview_0.0.1_iphoneos-arm.deb
-Size: 73152
-MD5sum: fa3e7b85ced606be6a4e054c0e99d605
-SHA1: 27dec43cd52f42200f3bbc7e393399e6edb5dabb
-SHA256: bf7fdfe2cb5fb8df7f690b26482165feb9dd4385734c8061115c0934468e4602
-SHA512: 89edf44fd7ef448589a53306b6acdac4163e01b10874b133566e490e51a333adedd24485531f78d0ab15c10619c312e12bb1a6effffc560918cf3792f0fefaaf
+Size: 73158
+MD5sum: 99f9c6f3108224fd8ad96218708e6e56
+SHA1: 675237151ffbc8f03b27e035f068db5469fbe59c
+SHA256: cbe048f1863220330e0d2be745000e22af9e7b4bf8722268abe4b59eb18f7121
+SHA512: 53c1d0227d83dceb1615f76df0423062f5f92aaf585ff59493bfdfbebf3966478bb99c9fa06cc699b8b7d89b976bc2cc1f657a12c33ca98382464904d2b31926
 Description: Adjust notification badges.
 Name: BadgeView
-Depiction: https://minazukidev.github.io/html/BadgeView/
+Depiction: https://minazukidev.github.io/html/BadgeView/index.html
 Author: Minazuki <minazukidev@gmail.com>
 
 Package: com.minazuki.cccell
