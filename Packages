@@ -1,3 +1,20 @@
+Package: com.minazuki.bluebadge
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Minazuki <minazukidev@gmail.com>
+Depends: com.spark.snowboard
+Filename: ./debs/BlueBadge.deb
+Size: 3318
+MD5sum: 0c0dda7bd1e692ad5d2722b6b17fdf68
+SHA1: b5a205ea6b037dbbd6238d34022d075214cf7baf
+SHA256: bb0200d1199cf469f33e53721c7b8b7766ccbef5299c55ac9c73fdf53ed37ce5
+SHA512: e8147dafa2029afb2276feeefd23051c1926ae99a8b388051395f68c3f2f24f19ee603d7adbf52d2579aed0681582d88d82b2c04094a81706bffa50ea6c53d06
+Description: The color of the badge is blue!
+Name: BlueBadge
+Depiction: https://minazukidev.github.io/html/BlueBadge/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.aptftparchive
 Architecture: iphoneos-arm
 Version: 0.0.3
