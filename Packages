@@ -22,6 +22,24 @@ Sponsor:
 dev: Rowl
 icon: https://minazukidev.github.io/icon/systemicon.png
 
+Package: com.minazuki.badgeview
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 380
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.minazuki.badgeview_0.0.1_iphoneos-arm.deb
+Size: 73152
+MD5sum: fa3e7b85ced606be6a4e054c0e99d605
+SHA1: 27dec43cd52f42200f3bbc7e393399e6edb5dabb
+SHA256: bf7fdfe2cb5fb8df7f690b26482165feb9dd4385734c8061115c0934468e4602
+SHA512: 89edf44fd7ef448589a53306b6acdac4163e01b10874b133566e490e51a333adedd24485531f78d0ab15c10619c312e12bb1a6effffc560918cf3792f0fefaaf
+Description: Adjust notification badges.
+Name: BadgeView
+Depiction: https://minazukidev.github.io/html/BadgeView/
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.cccell
 Architecture: iphoneos-arm
 Version: 1.0
@@ -253,13 +271,13 @@ Installed-Size: 316
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.minazuki.homecleaner_1.0_iphoneos-arm.deb
 Size: 58864
-MD5sum: bf8367cb8b44df9a658c75c49912446e
-SHA1: 07ef1a9672264ac8e64f1c33ebb6ae7f1668fb39
-SHA256: 559b4af24c1cdbaec6717c1c47124ff69f762d3184a7398d9e5d01736a6b1b70
-SHA512: 50fe4f1ae1a11f49c74634c66bbff231644abeed904a73600578daee05272d7af30e73be4b065a7d27e5dc87e70c45761829ded800a48ca4ad90aee1d244fe18
+MD5sum: 0141210a25877b3fdb7f32e33a61134d
+SHA1: e387e62427192bfb5c0aac3c5cf77d720dd02eb9
+SHA256: 1db90bbd3a63006753300683916828406b7aca8eb34aec41894f950407efddde
+SHA512: 3311b865293b13cd72957a466186d9a2968302a3e0d192ec12c729242ce15e7364521fd4120e8cd6a2979132f8abefe2a5221ee05b0a00686bf8357d076f9d03
 Description: Clean your home screen!
 Name: Home Cleaner
-Depiction: https://minazukidev.github.io/html/homecleaner/index.html
+Depiction: https://minazukidev.github.io/html/hc/index.html
 Author: Minazuki
 
 Package: com.minazuki.du
@@ -333,29 +351,6 @@ Depiction:
 Sponsor:
 dev: Minazuki
 icon: https://minazukidev.github.io/icon/systemicon.png
-
-Package: com.minazuki.theossdks
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: System
-Maintainer: Minazuki
-Installed-Size:
-Depends: org.theos.dependencies
-Filename: ./debs/theossdks.deb
-Size: 87184770
-MD5sum: 92e67f49008d8a3ea2bf38591c836518
-SHA1: b422754a8bd9a34a2b56ec66ad86aad5917bdc61
-SHA256: 9fdea73edc05672faf01ff93148f9170f0fa2e6a14bbf3b4c6a19419aaef625e
-SHA512: a82977dc00ddbd77c6e6f7a4fb2ea9821e845838b64f112427ff3b2b4d9ff509394ea330ab42b5668ad529edc01f2a61eed953acfcbcdf71f26260b10f5339f3
-Homepage:
-Description: Theos sdks
-Tag: purpose::extension
-Author: Minazuki
-Name: Theos sdks
-Depiction:
-Sponsor:
-dev: Rowl
-Icon:
 
 Package: com.minazuki.uicache
 Architecture: iphoneos-arm
