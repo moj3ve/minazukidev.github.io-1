@@ -297,6 +297,24 @@ Name: Home Cleaner
 Depiction: https://minazukidev.github.io/html/hc/index.html
 Author: Minazuki
 
+Package: com.minazuki.iconborder
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.minazuki.iconborder_0.0.1_iphoneos-arm.deb
+Size: 56502
+MD5sum: bbf9eb146dcf721abd7e6e7e8fc78ea4
+SHA1: e7a856b36f184d5c299b19e646f1d55bf7a908f5
+SHA256: 8feb6ff0a88bc6b283f9269744e0e61a560fa97643f4b3a0c98549bcb44fc845
+SHA512: d604d23ab74e2bf0f35419a027e4542edda363aafe8e111f2325f712a5f08556b191e9f434cb4c32072895ae58fc1f78466b95273cb2efe3c08e8227ef3612ea
+Description: Border icons and change corners.
+Name: IconBorder
+Depiction: https://minazukidev.github.io/html/IconBorder/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.du
 Architecture: iphoneos-arm
 Version: 0.0.1
