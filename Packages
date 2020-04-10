@@ -297,6 +297,24 @@ Name: Home Cleaner
 Depiction: https://minazukidev.github.io/html/hc/index.html
 Author: Minazuki
 
+Package: com.minazuki.htoa
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.minazuki.htoa_0.0.1_iphoneos-arm.deb
+Size: 3762
+MD5sum: 566745d03cd8c8d6259075ce96331b38
+SHA1: 3cc9c333efe007b9150dc4cbcd58db65bd9c13d6
+SHA256: 1491399a818fdfeff49bea2b53224465030f2b0736dcf20bbf50b8aa0ce620fa
+SHA512: bcf97574c141bf5596769271b74888074fccfece8c0ef907d990c30596ca23a777df453e9e617fa5ca8c83e389573eff5cf383703f192de5d21a23fea0210ddb
+Description: Hide other Twitter accounts.
+Name: HideTwOtherAccount
+Depiction: https://minazukidev.github.io/html/HideTwOtherAccount/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.iconborder
 Architecture: iphoneos-arm
 Version: 0.0.1
