@@ -333,6 +333,24 @@ Name: IconBorder
 Depiction: https://minazukidev.github.io/html/IconBorder/index.html
 Author: Minazuki <minazukidev@gmail.com>
 
+Package: com.minazuki.tfollowalert
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.minazuki.tfollowalert_0.0.1_iphoneos-arm.deb
+Size: 8476
+MD5sum: a3d8420eabd0bc5b0d4447b53ff2b97a
+SHA1: 60ef4d6b98ffce69cb44c3107bf07f6a2a0c57e1
+SHA256: a2598687df42e0f864694769e431b4209c17b79fca2f3e8e9a7b7e296fa6e6e5
+SHA512: cd5ec52d12b5f9a72cac2c61c92cad6d3c56910fb93ba3f6bfe6f79556534c941e3eb5fe77f5bf806e670b578fe5742204c97424baf6f48658904a81400a2eda
+Description: Twitter follow-up alert.
+Name: TFollowAlert
+Depiction: https://minazukidev.github.io/html/TFollowAlert/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.du
 Architecture: iphoneos-arm
 Version: 0.0.1
