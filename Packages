@@ -333,6 +333,24 @@ Name: IconBorder
 Depiction: https://minazukidev.github.io/html/IconBorder/index.html
 Author: Minazuki <minazukidev@gmail.com>
 
+Package: com.minazuki.mktbypass
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.minazuki.mktbypass_0.0.1_iphoneos-arm.deb
+Size: 4816
+MD5sum: d8434c5519689529dd91328a67690e6c
+SHA1: f67ba3a58ee8f206b9fbf89cf8a31040fe318314
+SHA256: 658d86ec0ed254300a65390473cca920b6af45ffd75306588b7890b2a5342eb0
+SHA512: f9ddaaa8ea6d51cce5d34ee2a7432c2bbf086c1d45b0067f1d22b31c77a5d13cf4e03c6476c8fbd121a09b6e644aee8d0088a2603c94a78d77265b7b3adaf912
+Description: Avoiding jailbreak detection in Mario Kart Tour.
+Name: MarioKartTourBypass
+Depiction: https://minazukidev.github.io/html/MarioKartTourBypass/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.tfollowalert
 Architecture: iphoneos-arm
 Version: 0.0.1
