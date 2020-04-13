@@ -39,6 +39,24 @@ Sponsor:
 dev: Rowl
 icon: https://minazukidev.github.io/icon/systemicon.png
 
+Package: com.minazuki.acf
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.minazuki.acf_0.0.1_iphoneos-arm.deb
+Size: 3994
+MD5sum: f35bcb2004755b8d30c0fcca867052cf
+SHA1: 17f01d1b3cd08ce992c49124395e95586372d59d
+SHA256: b1bd3358fb28f8efb5d93a66a619432d62305b17599cd4c402cbfb199ca487db
+SHA512: 60c4ba926dd8a13c3e10eee99e345a8cb0da4eb148e6d1f13ac8e57b6e768ec3fb824c3d5e89eb27ef157d3afb93a550cb8918fb66f2668a7ad470385532e5b2
+Description: Automatically close folders.
+Name: AutoCloseFolder
+Depiction: https://minazukidev.github.io/html/AutoCloseFolder/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.badgeview
 Architecture: iphoneos-arm
 Version: 0.0.1
