@@ -297,6 +297,24 @@ Depiction: https://minazukidev.github.io/html/folderelectro/index.html
 Author: Minazuki
 icon: https://minazukidev.github.io/icon/folderelectroicon.png
 
+Package: com.minazuki.hidedockblur13
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.minazuki.hidedockblur13_0.0.1_iphoneos-arm.deb
+Size: 4880
+MD5sum: 05e095e1fefd029f9efb02dd9cdbdfc9
+SHA1: 1496ee70e645c3579c58dd6af0de4385f29280d4
+SHA256: 8cf0296cef015d2ce402936296055e42d5cc21eb0365c32c65cbd342e30be566
+SHA512: e15f7b1fe82e31d770b685f340eb34a09aa3e0db96f42d82a5cafc54823d07d32ad77f359a929a394400038704a0078d91e91e903d21b020baacdbd102ac4e62
+Description: Hide the dock blur.
+Name: HideDockBlur13
+Depiction: https://minazukidev.github.io/html/HideDockBlur13/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.homecleaner
 Architecture: iphoneos-arm
 Version: 1.0
