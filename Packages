@@ -387,6 +387,24 @@ Name: MarioKartTourBypass
 Depiction: https://minazukidev.github.io/html/MarioKartTourBypass/index.html
 Author: Minazuki <minazukidev@gmail.com>
 
+Package: com.minazuki.ncsimple
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.minazuki.ncsimple_0.0.1_iphoneos-arm.deb
+Size: 3958
+MD5sum: ae2dd9a856d1e853165edf25d9577b19
+SHA1: 64820f0d3476b505370bdb8bfe0c4f4f58b6d737
+SHA256: 6616816ac27d6cf32e61a492068850164dc5c2fa1c096efdfae6fd7822e478f2
+SHA512: 00734e2ffe53d8de3bd5535cb2664ecc4763c27b3fe720936ad29dcfb144cac05caa326b562a09290d891779826c6ee724e7467fa056328c49c309ea8d83cc71
+Description: Make notifications almost the same as the background color!
+Name: NCSimple
+Depiction: https://minazukidev.github.io/html/NCSimple/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.tfollowalert
 Architecture: iphoneos-arm
 Version: 0.0.1
