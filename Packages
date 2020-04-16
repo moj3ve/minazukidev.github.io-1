@@ -405,6 +405,24 @@ Name: NCSimple
 Depiction: https://minazukidev.github.io/html/NCSimple/index.html
 Author: Minazuki <minazukidev@gmail.com>
 
+Package: com.minazuki.powerdock
+Architecture: iphoneos-arm
+Version: 0.0.1-beta
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 260
+Depends: mobilesubstrate, preferenceloader, com.mikiyan1978.libpowercontroller
+Filename: ./debs/com.minazuki.powerdock_0.0.1-beta_iphoneos-arm.deb
+Size: 42806
+MD5sum: 3a8730c320c098ec4a4755106dd9076d
+SHA1: 0ef7b61e4df0af33895ae7699c0c0760d6de20f5
+SHA256: bba376f12bff9d895454a5ace92168adc6a44ea8d68f5d0ee066fa92fad7fc15
+SHA512: 63014edb7f0a11d57d1831b180eaed1155d7f111c4add52fbda10c229349a32d2306cb9586d1e9a708aa80f959eb3de81393331d054bb9bf986f9dc58abdf2c0
+Description: Choose a power option.
+Name: PowerDock
+Depiction: https://minazukidev.github.io/html/PowerDock/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.tfollowalert
 Architecture: iphoneos-arm
 Version: 0.0.1
