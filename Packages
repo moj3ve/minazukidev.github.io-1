@@ -315,6 +315,24 @@ Name: HideDockBlur13
 Depiction: https://minazukidev.github.io/html/HideDockBlur13/index.html
 Author: Minazuki <minazukidev@gmail.com>
 
+Package: com.minazuki.hideiconlabel
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.minazuki.hideiconlabel_0.0.1_iphoneos-arm.deb
+Size: 3588
+MD5sum: 0e85d9840aee2fa97a50976302c93590
+SHA1: 06d69442b3e106114d48905cf30af561c3988170
+SHA256: 0478c45bfee0cf3960c6b4cf74365708c24fde1f763fbe9935d64822b85a0543
+SHA512: cc14b6be4020c8837611836892174535e7e3b6c73bfc2120efc35bdbfe3065319d52c93a058148355587c3470c9013df5a0876ec3057bb2778b7c1c5d7d67aaf
+Description: Hide the icon label.
+Name: HideIconLabel
+Depiction: https://minazukidev.github.io/html/HideIconLabel/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
 Package: com.minazuki.homecleaner
 Architecture: iphoneos-arm
 Version: 1.0
